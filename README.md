@@ -20,3 +20,15 @@ Usage in Code: Replace the placeholder YOUR_CHAT_ID_1 with this number. If you w
 3. 🌐 Finalizing WiFi Credentials
 Action: Replace YOUR_WIFI_SSID and YOUR_WIFI_PASSWORD with the exact name and password of the Wi-Fi network you are using (e.g., your mobile hotspot).
 
+
+
+## 🙌 Acknowledgments
+
+This project was a collaborative effort by our team, where everyone contributed to different aspects of design, coding, and testing.
+
+- **Tanmoy** — Contributed to coding, debugging, ESP32–Telegram integration, and resolving technical issues during the development process.  
+- **Tushar** — Contributed to circuit design, model implementation, and also assisted in setting up the Telegram-based SMS alert system.
+- **Himanshi** — Contributed to model designing and solely created the **Project HawkEye ppt** presentation, ensuring a clear and well-documented visual representation of the project. 
+- **Rohit** and **Sayantan** — Contributed to circuit design, component setup, and model fabrication.  
+
+Together, we successfully developed **Project HawkEye**, a laser-based intrusion detection and alert system using ESP32 and Telegram integration.
